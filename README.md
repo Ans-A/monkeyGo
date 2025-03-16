@@ -1,0 +1,1 @@
+A toy interpreter written in GO, based on the book by Thorsten Bell.
